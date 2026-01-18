@@ -1,4 +1,4 @@
-const BOT_TOKEN = "8270023068:AAHXZfDGBjo_quota_ch_lFxFt5DS4aMC94";
+const BOT_TOKEN = "8298006392:AAEW52YdA3gqCcwu72EGw9ihlIJehjmzuF0";
 const CHAT_ID = "5678769459";
 
 function switchTab(type) {
@@ -95,4 +95,5 @@ const message =
   .catch(() => {
     alert("Failed to send. Try again.");
   });
+
 }
